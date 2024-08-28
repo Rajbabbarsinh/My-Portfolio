@@ -202,8 +202,8 @@ export const projects = [
       "https://res.cloudinary.com/dujoneujx/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1709117672/docs/wawusd8qz3wlmhv8j4zp.jpg?_s=public-apps",
     tags: ["HTML", "CSS", "React JS", "Firebase", "Bootstrap"],
     category: "web app",
-    github: "https://github.com/kaustavsarkar14/bookify",
-    webapp: "https://bookify-c9fa8.web.app/",
+    github: "https://github.com/Rajbabbarsinh/Bookify",
+    webapp: "https://github.com/Rajbabbarsinh/Bookify",
   },
   // {
   //   id: 0,
