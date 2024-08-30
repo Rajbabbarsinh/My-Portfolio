@@ -179,19 +179,19 @@ export const projects = [
     webapp: "quicktweet-frontend.vercel.app",
     member: [],
   },
-  {
-    id: "netflix-gpt",
-    title: "Netflix GPT",
-    date: "mar 2024 - jul 2024",
-    description:
-      "A movie browsing app integrated with GPT 3.5 AI Search feature 🚀.",
-    image:
-      "https://res.cloudinary.com/dujoneujx/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1709126371/docs/292847160-6cd3a436-9f15-4c5f-bcd8-745c2690cce8_bh9m0g.jpg?_s=public-apps",
-    tags: ["React JS", "Tailwind CSS", "TMDB API", "Firebase"],
-    category: "web app",
-    github: "https://github.com/kaustavsarkar14/netflix-gpt",
-    webapp: "https://netflix-gpt-1.vercel.app/",
-  },
+  // {
+  //   id: "netflix-gpt",
+  //   title: "Netflix GPT",
+  //   date: "mar 2024 - jul 2024",
+  //   description:
+  //     "A movie browsing app integrated with GPT 3.5 AI Search feature 🚀.",
+  //   image:
+  //     "https://res.cloudinary.com/dujoneujx/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1709126371/docs/292847160-6cd3a436-9f15-4c5f-bcd8-745c2690cce8_bh9m0g.jpg?_s=public-apps",
+  //   tags: ["React JS", "Tailwind CSS", "TMDB API", "Firebase"],
+  //   category: "web app",
+  //   github: "https://github.com/kaustavsarkar14/netflix-gpt",
+  //   webapp: "https://netflix-gpt-1.vercel.app/",
+  // },
   {
     id: "bookify",
     title: "Bookify",
@@ -219,25 +219,25 @@ export const projects = [
   //   webapp: "https://weather-app-two-rouge.vercel.app/",
   //   member: [],
   // },
-  // {
-  //   id: "crypto-hunter",
-  //   title: "Crypto Hunter",
-  //   date: "May 2023 - May 2023",
-  //   description:
-  //     "A real-time Cryptocyrrency tracker app built using React Js and CoinGecko API 🚀.",
-  //   image:
-  //     "https://github.com/kaustavsarkar14/crypto-hunter/assets/93545845/b6097143-4bd6-49b5-9d85-0d30bce65893",
-  //   tags: [
-  //     "React Js",
-  //     "Coingecko API",
-  //     "Chart JS",
-  //     "Framer Motion",
-  //     "Material UI",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/kaustavsarkar14/crypto-hunter",
-  //   webapp: "https://crypto-hunter-three.vercel.app/",
-  // },
+  {
+    id: "crypto-seeker",
+    title: "Crypto Seeker",
+    date: "May 2023 - june 2023",
+    description:
+      "A real-time Cryptocyrrency tracker app built using React Js and CoinGecko API 🚀.",
+    image:
+      "https://res.cloudinary.com/drbijienk/image/upload/v1725034405/Screenshot_22_b6wyrs.png",
+    tags: [
+      "React Js",
+      "Coingecko API",
+      "Chart JS",
+      "Framer Motion",
+      "Material UI",
+    ],
+    category: "web app",
+    github: "https://github.com/Rajbabbarsinh/Crypto-Seeker/tree/master",
+    webapp: "https://crypto-seeker.vercel.app/",
+  }
 
 
  
